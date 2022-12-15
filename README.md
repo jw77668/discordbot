@@ -3,7 +3,6 @@ import discord
 from discord.ext import commands
 import random
 
-# 개발자 페이지에서 봇에 대한 토큰 문자열을 가져온 뒤, TOKEN에 대입하자
 TOKEN = "MTA1MTM3Njk0MTQyNjU0ODg0OA.G3r8aJ.gTdwAlvsN21SdVv1To-BjpY81yP8QtZqwXwivc"
 
 intents = discord.Intents.all()
